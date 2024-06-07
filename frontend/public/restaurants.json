@@ -1,0 +1,11 @@
+{
+    "new-york/ny": [
+      {"name": "Joe's Pizza", "address": "7 Carmine St, New York, NY 10014"},
+      {"name": "Shake Shack", "address": "Madison Ave & E.23rd St, New York, NY 10010"}
+    ],
+    "los-angeles/ca": [
+      {"name": "In-N-Out Burger", "address": "7009 Sunset Blvd, Los Angeles, CA 90028"},
+      {"name": "Guelaguetza", "address": "3014 W Olympic Blvd, Los Angeles, CA 90006"}
+    ]
+  }
+  
