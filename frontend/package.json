@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  {
+  
     "homepage": "https://lbalay.github.io/paprika",
     "scripts": {
       "start": "react-scripts start",
@@ -21,8 +21,7 @@
       "eject": "react-scripts eject",
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build"
-    }
-  },
+    },
   "eslintConfig": {
     "extends": [
       "react-app",
